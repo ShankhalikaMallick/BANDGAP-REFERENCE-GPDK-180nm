@@ -1,7 +1,6 @@
 # BANDGAP-REFERENCE-GPDK-180nm
-## BANDGAP REFERENCE GPDK 180nm
 
-# 𝐁𝐚𝐧𝐝𝐠𝐚𝐩 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐂𝐢𝐫𝐜𝐮𝐢𝐭𝐬: 𝐓𝐡𝐞 𝐒𝐢𝐥𝐞𝐧𝐭 𝐁𝐚𝐜𝐤𝐛𝐨𝐧𝐞 𝐨𝐟 𝐏𝐫𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐨𝐠 𝐃𝐞𝐬𝐢𝐠𝐧
+## 𝐁𝐚𝐧𝐝𝐠𝐚𝐩 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐂𝐢𝐫𝐜𝐮𝐢𝐭𝐬: 𝐓𝐡𝐞 𝐒𝐢𝐥𝐞𝐧𝐭 𝐁𝐚𝐜𝐤𝐛𝐨𝐧𝐞 𝐨𝐟 𝐏𝐫𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐨𝐠 𝐃𝐞𝐬𝐢𝐠𝐧
 
 Whether you’re designing an LDO, ADC, PLL, or SoC power rail—your entire system’s reliability begins with a stable voltage reference.
 That’s where Bandgap Reference (BGR) circuits come in — the unsung heroes that quietly anchor your analog performance across temperature, supply, and process variations.
