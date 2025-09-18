@@ -1,18 +1,18 @@
 # BANDGAP-REFERENCE-GPDK-180nm
-BANDGAP REFERENCE GPDK 180nm
+# BANDGAP REFERENCE GPDK 180nm
 
-𝐁𝐚𝐧𝐝𝐠𝐚𝐩 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐂𝐢𝐫𝐜𝐮𝐢𝐭𝐬: 𝐓𝐡𝐞 𝐒𝐢𝐥𝐞𝐧𝐭 𝐁𝐚𝐜𝐤𝐛𝐨𝐧𝐞 𝐨𝐟 𝐏𝐫𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐨𝐠 𝐃𝐞𝐬𝐢𝐠𝐧
+# 𝐁𝐚𝐧𝐝𝐠𝐚𝐩 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐂𝐢𝐫𝐜𝐮𝐢𝐭𝐬: 𝐓𝐡𝐞 𝐒𝐢𝐥𝐞𝐧𝐭 𝐁𝐚𝐜𝐤𝐛𝐨𝐧𝐞 𝐨𝐟 𝐏𝐫𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐨𝐠 𝐃𝐞𝐬𝐢𝐠𝐧
 
-Whether you’re designing an LDO, ADC, PLL, or SoC power rail—your entire system’s reliability begins with a stable voltage reference.
-That’s where Bandgap Reference (BGR) circuits come in — the unsung heroes that quietly anchor your analog performance across temperature, supply, and process variations.
+# Whether you’re designing an LDO, ADC, PLL, or SoC power rail—your entire system’s reliability begins with a stable voltage reference.
+# That’s where Bandgap Reference (BGR) circuits come in — the unsung heroes that quietly anchor your analog performance across temperature, supply, and process variations.
 
-𝐖𝐡𝐚𝐭 𝐈𝐬 𝐚 𝐁𝐚𝐧𝐝𝐠𝐚𝐩 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 (𝐁𝐆𝐑)?
-A Bandgap Reference is an analog circuit that generates a temperature-independent voltage, typically around 1.2V, by smartly combining two temperature-dependent voltages:
-PTAT (Proportional To Absolute Temperature)
-CTAT (Complementary To Absolute Temperature)
-When summed correctly, their temperature dependencies cancel out, producing a stable reference voltage over a wide temperature range.
+# 𝐖𝐡𝐚𝐭 𝐈𝐬 𝐚 𝐁𝐚𝐧𝐝𝐠𝐚𝐩 𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞 (𝐁𝐆𝐑)?
+# A Bandgap Reference is an analog circuit that generates a temperature-independent voltage, typically around 1.2V, by smartly combining two temperature-dependent voltages:
+# PTAT (Proportional To Absolute Temperature)
+# CTAT (Complementary To Absolute Temperature)
+# When summed correctly, their temperature dependencies cancel out, producing a stable reference voltage over a wide temperature range.
 
-𝐖𝐡𝐲 𝟏.𝟐𝐕?
+# 𝐖𝐡𝐲 𝟏.𝟐𝐕?
 The value is derived from the silicon bandgap energy (~1.205V at 0K).
  Hence the name: Bandgap Reference.
 
